@@ -1,0 +1,16 @@
+{
+  "name": "simple-ci-cd",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for GitHub Actions CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
